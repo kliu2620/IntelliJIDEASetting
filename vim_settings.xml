@@ -1,9 +1,9 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" timestamp="1444829835898">
+      <file name="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" timestamp="1444831957437">
         <mark key="'" line="161" column="47" />
       </file>
       <file name="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1442136689218">
@@ -138,7 +138,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
