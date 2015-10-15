@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" timestamp="1444831957437">
@@ -22,6 +22,12 @@
         <mark key="^" line="304" column="28" />
         <mark key="." line="304" column="28" />
         <mark key="[" line="303" column="54" />
+      </file>
+      <file name="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1444915422251">
+        <mark key="]" line="383" column="25" />
+        <mark key="^" line="383" column="25" />
+        <mark key="." line="383" column="25" />
+        <mark key="[" line="383" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -149,6 +155,18 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
