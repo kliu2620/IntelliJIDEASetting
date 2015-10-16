@@ -3,19 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRDriver.java" timestamp="1444968735982">
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRDriver.java" timestamp="1444972798144">
         <mark key="'" line="248" column="29" />
         <mark key="[" line="248" column="28" />
         <mark key="]" line="248" column="29" />
         <mark key="^" line="248" column="29" />
         <mark key="." line="209" column="90" />
       </file>
+      <file name="C:/Share fold/t2mongo-project/T2MPhase1/com/teradata/t2mongo/T2MongoImportImpl.java" timestamp="1444973882658" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1444969648455" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1444970217681">
-        <mark key="[" line="655" column="82" />
-        <mark key="]" line="655" column="82" />
-        <mark key="^" line="663" column="63" />
-        <mark key="." line="655" column="82" />
+      <file name="/a.dummy" timestamp="1444973704939">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1444973872585">
+        <mark key="[" line="579" column="3" />
+        <mark key="]" line="599" column="32" />
+        <mark key="." line="599" column="32" />
+        <mark key="^" line="599" column="32" />
+      </file>
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/hiveudf/TDIndicRowTbl.java" timestamp="1444972933792" />
+      <file name="C:/Share fold/t2mongo-project/libs/javFnc.jar!/com/teradata/fnc/runtime/ColumnDefinition.class" timestamp="1444973661328" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/javFnc.jar!/com/teradata/fnc/runtime/ColumnDefinition.class" timestamp="1444973010167" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1444973959995">
+        <mark key="[" line="664" column="66" />
+        <mark key="]" line="664" column="66" />
+        <mark key="^" line="659" column="38" />
+        <mark key="." line="664" column="66" />
       </file>
     </filemarks>
     <jumps>
@@ -24,16 +37,37 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>throws</text>
+        <text>&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>throws</text>
+        <text>&quot;</text>
       </register>
       <register name="2" type="4">
-        <text>UnsupportedEncodingException</text>
+        <text>&quot;</text>
+      </register>
+      <register name="3" type="4">
+        <text>16LE</text>
+      </register>
+      <register name="4" type="4">
+        <text>UTF-</text>
+      </register>
+      <register name="5" type="4">
+        <text>ASCII</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
+        <text>3</text>
+      </register>
+      <register name="8" type="4">
+        <text>-</text>
+      </register>
+      <register name="9" type="4">
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>throws</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
@@ -47,8 +81,17 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
