@@ -11,11 +11,14 @@
         <mark key="." line="209" column="90" />
       </file>
       <file name="C:/Share fold/t2mongo-project/T2MPhase1/com/teradata/t2mongo/T2MongoImportImpl.java" timestamp="1444973882658" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1444979867399">
+        <mark key="[" line="301" column="29" />
+      </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1444969648455" />
       <file name="/a.dummy" timestamp="1444973704939">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1444973872585">
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1444980310793">
         <mark key="[" line="579" column="3" />
         <mark key="]" line="599" column="32" />
         <mark key="." line="599" column="32" />
@@ -100,6 +103,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
