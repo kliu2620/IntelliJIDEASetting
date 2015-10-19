@@ -3,8 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" timestamp="1444829384417">
-        <mark key="'" line="161" column="47" />
+      <file name="/fragment.java" timestamp="1444915874041">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/mapper/ComplexDataString.java" timestamp="1444921782887">
+        <mark key="]" line="66" column="58" />
+        <mark key="." line="66" column="58" />
+        <mark key="[" line="66" column="58" />
       </file>
       <file name="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1442136689218">
         <mark key="'" line="47" column="21" />
@@ -13,15 +18,31 @@
         <mark key="." line="46" column="2" />
         <mark key="[" line="46" column="2" />
       </file>
+      <file name="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" timestamp="1444831957437">
+        <mark key="'" line="161" column="47" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Test/src/TestCode.java" timestamp="1444921224338">
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="[" line="14" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1442153277125">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1444922252154" />
       <file name="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1442154063235">
         <mark key="'" line="1089" column="14" />
         <mark key="]" line="304" column="28" />
         <mark key="^" line="304" column="28" />
         <mark key="." line="304" column="28" />
         <mark key="[" line="303" column="54" />
+      </file>
+      <file name="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1444915422251">
+        <mark key="]" line="383" column="25" />
+        <mark key="^" line="383" column="25" />
+        <mark key="." line="383" column="25" />
+        <mark key="[" line="383" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -49,44 +70,44 @@
       <jump line="161" column="47" filename="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>}</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>W</text>
+        <text>崔子格at</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="1" type="4">
-        <text>W</text>
+        <text>崔子格at</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bm9uZmlndXJhdGlvbi5nZXQoIlNFU1NJT05fS0VZIik7CiAgICAgICAgU3RyaW5nIHNlc3Npb25LZXkgPSBzZXNzaW9uX2tleS5yZXBsYWNlKCcsJywgJ18nKTsKCiAgICAgICAgSXRlcmF0b3I8VGV4dD4gaSA9IHZhbHVlcy5pdGVyYXRvcigpOwogICAgICAgIHdoaWxlIChpLmhhc05leHQoKSkgewogICAgICAgICAgICBUZXh0IHBhdGggPWkubmV4dCgpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInBhdGg6IiArIHBhdGgpOwogICAgICAgICAgICBDb25maWd1cmF0aW9uIGNvbmYgPSBjb25maWd1cmF0aW9uOwogICAgICAgICAgICBGaWxlU3lzdGVtIGZzID0gRmlsZVN5c3RlbS5nZXQoY29uZik7CiAgICAgICAgICAgIGZzLg==</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="6" type="4">
-        <text>Syst</text>
+        <text />
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nIHJlc3VsdD1qYXZhLm5ldC5VUkxEZWNvZGVyLmRlY29kZShzcywgIlVURi04Iik7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KyspIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3MyPSBuZXcgU3RyaW5nKHNzLmdldEJ5dGVzKCksIlVURi04Iik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/com</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUEFUSDoiICsgZmZbal0uZ2V0UGF0aCgpLmdldFBhcmVudCgpKTsKICAgICAgICAgICAgICAgIFBhdGggbmV3RmlsZSA9IG5ldyBQYXRoKCIuLyIgKyBzZXNzaW9uS2V5ICsgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwogICAgICAgICAgICAgICAgUGF0aCBmaWxlID0gZmZbal0uZ2V0UGF0aCgpOwogICAgICAgICAgICAgICAgZnMucmVuYW1lKGZpbGUsIG5ld0ZpbGUpOwogICAgICAgICAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text>ss2</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>ISO-8859-1</text>
       </register>
       <register name="/" type="4">
         <text>com</text>
       </register>
       <register name="-" type="4">
-        <text>W</text>
+        <text>崔子格at</text>
       </register>
     </registers>
     <search>
@@ -138,7 +159,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -149,6 +170,27 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
