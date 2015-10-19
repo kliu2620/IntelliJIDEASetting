@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1444969648455" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1445226391803">
+        <mark key="[" line="121" column="68" />
+      </file>
       <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1444986515406">
         <mark key="[" line="579" column="3" />
         <mark key="]" line="599" column="32" />
@@ -13,10 +15,10 @@
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/hiveudf/TDIndicRowTbl.java" timestamp="1444972933792" />
       <file name="C:/Share fold/t2mongo-project/libs/javFnc.jar!/com/teradata/fnc/runtime/ColumnDefinition.class" timestamp="1444973661328" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/logger/JDBCLogger.java" timestamp="1445224915667" />
-      <file name="C:/Share fold/t2h-project/untitled4/src/fe.java" timestamp="1444975781558">
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="37" column="21" />
-        <mark key="." line="37" column="21" />
+      <file name="C:/Share fold/t2h-project/untitled4/src/fe.java" timestamp="1445226545023">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/javFnc.jar!/com/teradata/fnc/runtime/ColumnDefinition.class" timestamp="1444973010167" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/error/Errors.java" timestamp="1444982221384" />
@@ -31,7 +33,7 @@
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1444979867399">
         <mark key="[" line="301" column="29" />
       </file>
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445223102572">
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445226423057">
         <mark key="^" line="658" column="38" />
       </file>
     </filemarks>
@@ -41,34 +43,34 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>UnsupportedEncodingException</text>
+        <text encoding="base64">ICAgICAgICBTb3J0ZWRNYXAgbSA9IENoYXJzZXQuYXZhaWxhYmxlQ2hhcnNldHMoKTsKICAgICAgICBTZXQgayA9IG0ua2V5U2V0KCk7CiAgICAgICAgSXRlcmF0b3IgaSA9IGsuaXRlcmF0b3IoKTsKICAgICAgICB3aGlsZSAoaS5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgU3RyaW5nIG4gPSAoU3RyaW5nKSBpLm5leHQoKTsKICAgICAgICAgICAgQ2hhcnNldCBlID0gKENoYXJzZXQpIG0uZ2V0KG4pOwogICAgICAgICAgICBTdHJpbmcgZCA9IGUuZGlzcGxheU5hbWUoKTsKICAgICAgICAgICAgYm9vbGVhbiBjID0gZS5jYW5FbmNvZGUoKTsKICAgICAgICAgICAgU3RyaW5nIGEgPSAiY3LOXHUwMDlGzt3P98+4z7jOXHUwMEFEzrEiOwogICAgICAgICAgICBTdHJpbmcgYiA9IG51bGw7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBiID0gbmV3IFN0cmluZyAoYS5nZXRCeXRlcyhuKSwoIlVURi04IikpOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZTEpIHsKCiAgICAgICAgICAgIH0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGIpOwogICAgICAgIH0=</text>
       </register>
       <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICBTb3J0ZWRNYXAgbSA9IENoYXJzZXQuYXZhaWxhYmxlQ2hhcnNldHMoKTsKICAgICAgICBTZXQgayA9IG0ua2V5U2V0KCk7CiAgICAgICAgSXRlcmF0b3IgaSA9IGsuaXRlcmF0b3IoKTsKICAgICAgICB3aGlsZSAoaS5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgU3RyaW5nIG4gPSAoU3RyaW5nKSBpLm5leHQoKTsKICAgICAgICAgICAgQ2hhcnNldCBlID0gKENoYXJzZXQpIG0uZ2V0KG4pOwogICAgICAgICAgICBTdHJpbmcgZCA9IGUuZGlzcGxheU5hbWUoKTsKICAgICAgICAgICAgYm9vbGVhbiBjID0gZS5jYW5FbmNvZGUoKTsKICAgICAgICAgICAgU3RyaW5nIGEgPSAiY3LOXHUwMDlGzt3P98+4z7jOXHUwMEFEzrEiOwogICAgICAgICAgICBTdHJpbmcgYiA9IG51bGw7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBiID0gbmV3IFN0cmluZyAoYS5nZXRCeXRlcyhuKSwoIlVURi04IikpOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZTEpIHsKCiAgICAgICAgICAgIH0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGIpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="2" type="4">
         <text>UnsupportedEncodingException</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuKTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGUxLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>throws IOException</text>
       </register>
-      <register name="6" type="4">
-        <text />
-      </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text />
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>d</text>
       </register>
       <register name="9" type="4">
-        <text />
+        <text>n</text>
       </register>
       <register name="-" type="4">
         <text>UnsupportedEncodingException</text>
