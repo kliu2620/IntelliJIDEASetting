@@ -39,8 +39,11 @@
         <mark key="." line="110" column="16" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/common/SQLThreadContext.java" timestamp="1445236780845" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445226423057">
-        <mark key="^" line="658" column="38" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445237932263">
+        <mark key="[" line="667" column="0" />
+        <mark key="]" line="667" column="0" />
+        <mark key="^" line="866" column="3" />
+        <mark key="." line="667" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -49,37 +52,40 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>者</text>
+        <text>s</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="&quot;" type="4">
-        <text>者</text>
+        <text>s</text>
       </register>
       <register name="2" type="4">
-        <text>装</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>伪</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Pz8/ZXhlY3V0ZSgpIHRocm93cyBTUUxFeGNlcHRpb24gewoJCWJvb2xlYW4geCA9IHRydWU7CgkJaW50IGxhc3RBTVBUb0VuZCA9IC0xOwoJCWxvbmcgYnl0ZXNzZW50PTA7CgkJaW50IGJjbnQgPSAwOwoJCXNob3J0IG1vZGUgPSBQYXJhbGxlbFRyYW5zcG9ydExheWVyLkVYUE9SVDsKCQlNZXRhZGF0YSBtZXRhZGF0YSA9IG5ldyBNZXRhZGF0YShtb2RlKTsKCQljb25mSW5mbyA9IG5ldyBTUUxIQ29uZmlnKCIwLjEiKTsKCQlBTVBJbmZvIGFtcCA9IG5ldyBBTVBJbmZvKCk7CgkJYW1wSWQgPSBhbXAuZ2V0QU1QSWQoKTsgICAgCQoJCWxvZy5kZWJ1ZygiQU1QICIgKyBhbXBJZCArICIgT1BFUkFUT1IgU1RBUlRFRC4iKTsKCQlNYXA8U3RyaW5nLE9iamVjdD4gY3VzdG9tQ29scyA9IGNvbnRyYWN0LmdldElucHV0SW5mbygpLmdldEN1c3RvbSgpOwoJCQoJCXB0bFNvY2sgPSBudWxsOwoJCQoJCWlmIChjdXN0b21Db2xzID09IG51bGwpCgkJCXRocm93IG5ldyBTUUxFeGNlcHRpb24oRXJyb3JzLmdldEVDKEVycm9ycy5UMkhfRUNfNDEzMzApICsgIkN1c3RvbSBjbGF1c2VzIGFyZSBub3QgcHJlc2VudC4gQU1QOiAiICsgYW1wSWQpOwoJCXRyeSB7CgoJCQlub2RlSWQgPSBhbXAuZ2V0Tm9kZUlkKCk7CgkJCU5vZGVJbmZvIG5vZGUgPSBuZXcgTm9kZUluZm8oKTsKCgkJCS8qZGVzZXJpYWxpemUgY29udHJhY3QgY29udGV4dCBkYXRhKi8JICAgICAgICAKCQkJYnl0ZVtdIGJ5dGVzID0gY29udHJhY3QuZ2V0Q29udHJhY3RDdHgoKTsKCQkJaWYoYnl0ZXMgPT0gbnVsbCl7CgkJCQl0aHJvdyBuZXcgRXhjZXB0aW9uKEVycm9ycy5nZXRFQyhFcnJvcnMuVDJIX0VDXzQxMzczKSArICJFeHBvcnQgY29udHJhY3QgY29udGV4dCBpcyBpbnZhbGlkLiBBTVA6IiAgKyBhbXBJZCk7CgkJCX0KCgkJCUJ5dGVBcnJheUlucHV0U3RyZWFtIGIgPSBuZXcgQnl0ZUFycmF5SW5wdXRTdHJlYW0oYnl0ZXMpOwoJCQlPYmplY3RJbnB1dFN0cmVhbSBvID0gbmV3IE9iamVjdElucHV0U3RyZWFtKGIpOwoJCQljb250cmFjdEN0eCA9IChUREV4cG9ydEluZm8pby5yZWFkT2JqZWN0KCk7CgkJCWlmKGNvbnRyYWN0Q3R4ID09IG51bGwpCgkJCQl0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKEVycm9ycy5nZXRFQyhFcnJvcnMuVDJIX0VDXzQxMzc0KSArICJEZXNlcmlhbGl6ZWQgVERDb250cmFjdEN0eERhdGEgZGF0YSBpcyBudWxsLiIpOwoJCQljb25mSW5mby5wb3B1bGF0ZUhpdmVDb25maWdJbmZvKGN1c3RvbUNvbHMpOwoJCQlzcWxUaHJlYWRDdHggPSBuZXcgU1FMVGhyZWFkQ29udGV4dCgpOwogICAgCQlzcWxUaHJlYWRDdHguZW50ZXJNWVRocmVhZCgpOwogICAgCQkKICAgIAkJLy9yZWFkIHRva2VuIHN0cmluZyBmb3Iga2VyYmVyb3MgID4+CgkJCWlmKGNvbmZJbmZvLmlzS2VyYmVyb3MpIHsKCQkJCWhkZnNUb2tlblN0cmluZyA9IChTdHJpbmcpIG8ucmVhZE9iamVjdCgpOwoJCQkJamRiY1Rva2VuU3RyaW5nID0oU3RyaW5nKW8ucmVhZE9iamVjdCgpOwoJCQkJa2VyYmVyb3NUaWNrZXRGaWxlID0gKFN0cmluZylvLnJlYWRPYmplY3QoKTsKCQkJCW1ldGFzdG9yZVRva2VuU3RyaW5nID0oU3RyaW5nKW8ucmVhZE9iamVjdCgpOwoJCQl9CgkJCS8vPDwKCgkJCS8qIFNldCB0aGUgc2Vzc2lvbiovCgkJCVNlc3Npb24gc2Vzc2lvbiA9IGNvbnRyYWN0Q3R4LmdldFNlc3Npb24oKTsKCQkJc2Vzc2lvbi5zZXROdW1iZXJPZk5vZGVzKG5vZGUuZ2V0TnVtQU1QTm9kZXMoKSk7CgkJCS8vR2V0IGRpc3RpbmN0IG5vZGUgaWRzIGFuZCBzZXQgdGhlIG5vZGVsaXN0CgkJCVNldDxJbnRlZ2VyPiBoU2V0ID0gbmV3IExpbmtlZEhhc2hTZXQ8SW50ZWdlcj4oKTsKCQkJaW50W10gYWxsTm9kZXMgPSBub2RlLmdldE5vZGVJZHMoKTsKCgkJCWZvcihpbnQgaSA9IDE7aTxhbGxOb2Rlcy5sZW5ndGg7aSsrKXsKCQkJCWhTZXQuYWRkKGFsbE5vZGVzW2ldKTsKCQkJfQoJCQlJbnRlZ2VyW10gbm9kZUxpc3QgPSBBcnJheXMuY29weU9mKGhTZXQudG9BcnJheSgpLCBoU2V0LnRvQXJyYXkoKS5sZW5ndGgsIEludGVnZXJbXS5jbGFzcyk7CgkJCWFsbE5vZGVzID0gbmV3IGludFtub2RlTGlzdC5sZW5ndGhdOwoJCQlmb3IoaW50IGk9MDtpPG5vZGVMaXN0Lmxlbmd0aDtpKyspewoJCQkJYWxsTm9kZXNbaV0gPSAoaW50KSBub2RlTGlzdFtpXTsKCQkJfQoJCQlzZXNzaW9uLnNldE5vZGVMaXN0KGFsbE5vZGVzKTsKCgkJCS8qU2V0IHRoZSBlbmRwb2ludCovCgkJCUVuZHBvaW50IGVuZHBvaW50ID0gbmV3IEVuZHBvaW50KG5vZGVJZCwgc2Vzc2lvbiwgbW9kZSk7CgoJCQkvKiBTZXQgdGhlIHByb3RvY29sKi8KCQkJU3RyaW5nIHZlciA9IFBhcmFsbGVsVHJhbnNwb3J0TGF5ZXIuUHJvdG9jb2xWZXJzaW9uOwoJCQlpbnQgY29uY3VycmVudFN0cmVhbXMgCT0gMTsKCQkJaW50IHNzb2NrVGltZW91dCAJICAJPSBjb25mSW5mby5zb2NrVGltZW91dDsKCgkJCVByb3RvY29sIHByb3RvY29sID0gbmV3IFByb3RvY29sKCk7CgkJCXByb3RvY29sLnNldFZlcnNpb24odmVyKTsKCQkJcHJvdG9jb2wuc2V0Q29uY3VycmVudFN0cmVhbXMoY29uY3VycmVudFN0cmVhbXMpOwoJCQlwcm90b2NvbC5zZXRSZWFkU29ja1RpbWVvdXQoc3NvY2tUaW1lb3V0KTsKCQkJcHJvdG9jb2wuc2V0TGlzdGVuU29ja1RpbWVvdXQoc3NvY2tUaW1lb3V0KjMpOwoJCQlwcm90b2NvbC5zZXRfbmlvKGNvbmZJbmZvLmlzTklPKTsKCQkJcHJvdG9jb2wuc2V0S25vd25FeHBlY3RlZENvbm5lY3Rpb25zKGZhbHNlKTsKCQkJcHJvdG9jb2wuc2V0RU9GUmVzUmVxKHRydWUpOwoJCgkJCQoJCQlwdGxTb2NrID0gbmV3IFBhcmFsbGVsT3V0cHV0U3RyZWFtKGVuZHBvaW50LHByb3RvY29sLG51bGwsbWV0YWRhdGEpOwoJCQlpZihwdGxTb2NrID09IG51bGwpewoJCQkJdGhyb3cgbmV3IFNRTEV4Y2VwdGlvbihFcnJvcnMuZ2V0RUMoRXJyb3JzLlQySF9FQ180MTM3NSkrInBhcmFsbGVsT3V0cHV0U3RyZWFtIGluc3RhbmNlIGZhaWxlZC4iKTsKCQkJfQkKCQkJCQoJCQkvKlN0YXJ0IExpc3RlbmluZyBvbiBnaXZlbiBwb3J0Ki8KCQkJcHRsU29jay5saXN0ZW4oNzAwMik7CgkJCgkKCQkvKkdldCBEZXZpY2UgaXBzKi8KCQkJaWYgKGNvbmZJbmZvLmlwX2RldmljZSAhPSBudWxsKSB7CgkJCQkvKgoJCQkJICogTmV0d29yayBpbnRlcmZhY2UgaGFzIGJlZW4gbWVudGlvbmVkIGluIHRoZSBxdWVyeSByYXRoZXIgdGhhbiBJUAoJCQkJICogYWRkcmVzcyhlcykgV2UgaGF2ZSB0byBnZXQgYWxsIHRoZSBJUHMKCQkJCSAqLwkJCQkKCQkJCWxvY2FsX2lwcyA9IGdldElQc09uSW50ZXJmYWNlKGNvbmZJbmZvLmlwX2RldmljZSwgYW1wKTsKCQkJfQkKCQkJZWxzZQoJCQkJdGhyb3cgbmV3IEV4Y2VwdGlvbihFcnJvcnMuZ2V0RUMoRXJyb3JzLlQySF9FQ180MTMwNikgKyAiTmV0d29yayBkZXZpY2UgaWQgd2Fzbid0IHNwZWNpZmllZCIpOwoKCQkKCQkJZXhlY3V0ZU9vemllUmVxdWVzdChhbXAsIGNvbnRyYWN0Q3R4LmdldFBvc3REYXRhKCksCgkJCQkJY29udHJhY3RDdHguZ2V0TmFtZU5vZGVVcmwoKSwKCQkJCQljb250cmFjdEN0eC5nZXRKb2JUcmFja2VyVXJsKCksCgkJCQkJY29udHJhY3RDdHguZ2V0T296aWVTZXJ2ZXJVcmwoKSk7CgoJCQlpZihhbXAubG93ZXN0QU1QT25Ob2RlKCkpewoJCQkJaW50IHJOb2RlcyA9IHB0bFNvY2suZ2V0UmVtb3RlTm9kZUNvdW50KCk7CgkJCQlpZihyTm9kZXM9PS0xKQoJCQkJCXRocm93IG5ldyBFeGNlcHRpb24oRXJyb3JzLmdldEVDKEVycm9ycy5UMkhfRUNfNDEzNzYpICsgIlRpbWVvdXQgd2hpbGUgZ2V0dGluZyByZW1vdGUgbm9kZSBjb3VudCIpOwoJCQkJcHRsU29jay5zZXRSZW1vdGVOb2RlQ291bnQock5vZGVzKTsKCQkJfQoKCQkJLypTdGFydCBzZW5kaW5nIGRhdGEgdG8gY2xpZW50cyovCgkJCWJ5dGVbXSBidWZmZXIgPSBuZXcgYnl0ZVtQYXJhbGxlbFRyYW5zcG9ydExheWVyLlRDUEJMS1NaXTsKCQkJcm93RGF0YSA9IG5ldyBSb3dEYXRhKCk7CQoJCQlyb3dEYXRhLnNldElkKGFtcElkKTsKCQkJcm93RGF0YS5zZXROb2RlSWQobm9kZUlkKTsJCgkJCXJvd0RhdGEuc2V0Um93QnVmKGJ1ZmZlcik7CgkJCWludCBieXRlQ291bnRSZXBvcnRGcmVxICA9IDY0MDAwKjEwOyAvL2V2ZXJ5IDEwIGJsb2NrcwoKCgkJCXJvd0RhdGEuc2V0Um93QnVmbGVuKDApOwoJCQkKCgkJCWludCBudW1Sb3dzID0gMDsKCQkJaW50IGRhdGFsZW4gPSByc2luWzBdLnJlYWQoYnVmZmVyKTsKCQkJcm93RGF0YS5zZXRSb3dCdWZsZW4oZGF0YWxlbik7CgkJCQoJCQl3aGlsZSAocm93RGF0YS5nZXRSb3dCdWZsZW4oKSAhPSAt</text>
+        <text>f</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBTb3J0ZWRNYXAgbSA9IENoYXJzZXQuYXZhaWxhYmxlQ2hhcnNldHMoKTsKICAgICAgICBTZXQgayA9IG0ua2V5U2V0KCk7CiAgICAgICAgSXRlcmF0b3IgaSA9IGsuaXRlcmF0b3IoKTsKICAgICAgICB3aGlsZSAoaS5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgU3RyaW5nIG4gPSAoU3RyaW5nKSBpLm5leHQoKTsKICAgICAgICAgICAgQ2hhcnNldCBlID0gKENoYXJzZXQpIG0uZ2V0KG4pOwogICAgICAgICAgICBTdHJpbmcgZCA9IGUuZGlzcGxheU5hbWUoKTsKICAgICAgICAgICAgYm9vbGVhbiBjID0gZS5jYW5FbmNvZGUoKTsKICAgICAgICAgICAgU3RyaW5nIGEgPSAiY3LOXHUwMDlGzt3P98+4z7jOXHUwMEFEzrEiOwogICAgICAgICAgICBTdHJpbmcgYiA9IG51bGw7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBiID0gbmV3IFN0cmluZyAoYS5nZXRCeXRlcyhuKSwoIlVURi04IikpOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZTEpIHsKCiAgICAgICAgICAgIH0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGIpOwogICAgICAgIH0=</text>
+        <text>a</text>
       </register>
       <register name="7" type="4">
-        <text>UnsupportedEncodingException</text>
+        <text>fe</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuKTsK</text>
+      <register name="8" type="4">
+        <text>f</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+      <register name="9" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>者</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
@@ -119,6 +125,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>

@@ -2,4 +2,14 @@
   <action id="BuildArtifact">
     <keyboard-shortcut first-keystroke="alt B" />
   </action>
+  <action id="FindBugs.PreviewSelectBugInstance">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift control BACK_SPACE" />
+    <keyboard-shortcut first-keystroke="alt P" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="alt M" />
+  </action>
 </keymap>
