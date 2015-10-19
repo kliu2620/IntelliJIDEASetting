@@ -52,11 +52,10 @@
         <mark key="." line="110" column="16" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/common/SQLThreadContext.java" timestamp="1445236780845" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1445242459899">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="56" column="36" />
-        <mark key="^" line="56" column="36" />
-        <mark key="." line="56" column="36" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1445244973855">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445238226685">
         <mark key="'" line="58" column="24" />
@@ -74,41 +73,41 @@
       <jump line="291" column="7" filename="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>m</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>e</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgOyBqKyspIHsK</text>
       </register>
-      <register name="3" type="4">
-        <text>t</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text>s</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhPWZhbHNlKSB7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>y</text>
+        <text>f</text>
       </register>
       <register name="6" type="4">
-        <text>S</text>
-      </register>
-      <register name="7" type="4">
-        <text>e</text>
-      </register>
-      <register name="8" type="4">
-        <text>l</text>
-      </register>
-      <register name="9" type="4">
         <text>i</text>
       </register>
+      <register name="7" type="4">
+        <text>.</text>
+      </register>
+      <register name="8" type="4">
+        <text>a</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGl2ZUNsaWVudC5ub3RudQo=</text>
+      </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>f</text>
       </register>
     </registers>
     <search>
