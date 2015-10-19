@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1445226391803">
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1445230405058">
         <mark key="[" line="121" column="68" />
+        <mark key="]" line="127" column="33" />
+        <mark key="^" line="127" column="33" />
+        <mark key="." line="127" column="33" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1444986515406">
         <mark key="[" line="579" column="3" />
@@ -98,6 +101,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
