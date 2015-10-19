@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1445240108398">
+      <file name="/Dummy.txt" timestamp="1445251126912">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1445230405058">
@@ -21,6 +21,7 @@
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/hiveudf/TDIndicRowTbl.java" timestamp="1444972933792" />
       <file name="C:/Share fold/t2mongo-project/libs/javFnc.jar!/com/teradata/fnc/runtime/ColumnDefinition.class" timestamp="1444973661328" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/logger/JDBCLogger.java" timestamp="1445224915667" />
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1445250196217" />
       <file name="C:/Share fold/t2h-project/untitled4/src/fe.java" timestamp="1445226545023">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="7" column="0" />
@@ -55,9 +56,6 @@
         <mark key="]" line="130" column="45" />
         <mark key="." line="130" column="45" />
         <mark key="^" line="130" column="45" />
-      </file>
-      <file name="/fragment.java" timestamp="1445249771322">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445238226685">
         <mark key="'" line="58" column="24" />
@@ -183,6 +181,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
