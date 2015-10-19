@@ -3,27 +3,40 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1445240108398">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1445230405058">
         <mark key="[" line="121" column="68" />
         <mark key="]" line="127" column="33" />
         <mark key="^" line="127" column="33" />
         <mark key="." line="127" column="33" />
       </file>
+      <file name="/a.dummy" timestamp="1445240108411">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1444986515406">
-        <mark key="[" line="579" column="3" />
-        <mark key="]" line="599" column="32" />
-        <mark key="." line="599" column="32" />
-        <mark key="^" line="599" column="32" />
+        <mark key="[" line="558" column="3" />
+        <mark key="]" line="578" column="32" />
+        <mark key="." line="578" column="32" />
+        <mark key="^" line="578" column="32" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/hiveudf/TDIndicRowTbl.java" timestamp="1444972933792" />
       <file name="C:/Share fold/t2mongo-project/libs/javFnc.jar!/com/teradata/fnc/runtime/ColumnDefinition.class" timestamp="1444973661328" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/logger/JDBCLogger.java" timestamp="1445224915667" />
       <file name="C:/Share fold/t2h-project/untitled4/src/fe.java" timestamp="1445226545023">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/javFnc.jar!/com/teradata/fnc/runtime/ColumnDefinition.class" timestamp="1444973010167" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1445240500977">
+        <mark key="'" line="281" column="7" />
+        <mark key="[" line="281" column="8" />
+        <mark key="]" line="281" column="7" />
+        <mark key="^" line="281" column="7" />
+        <mark key="." line="281" column="7" />
+      </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/error/Errors.java" timestamp="1444982221384" />
       <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRDriver.java" timestamp="1444972798144">
         <mark key="'" line="248" column="29" />
@@ -39,7 +52,14 @@
         <mark key="." line="110" column="16" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/common/SQLThreadContext.java" timestamp="1445236780845" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445237932263">
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1445242459899">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="56" column="36" />
+        <mark key="^" line="56" column="36" />
+        <mark key="." line="56" column="36" />
+      </file>
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445238226685">
+        <mark key="'" line="58" column="24" />
         <mark key="[" line="667" column="0" />
         <mark key="]" line="667" column="0" />
         <mark key="^" line="866" column="3" />
@@ -49,43 +69,46 @@
     <jumps>
       <jump line="238" column="0" filename="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRDriver.java" />
       <jump line="250" column="29" filename="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRDriver.java" />
+      <jump line="730" column="14" filename="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" />
+      <jump line="58" column="24" filename="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" />
+      <jump line="291" column="7" filename="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>s</text>
+        <text>m</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>m</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>e</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
         <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>f</text>
+        <text>y</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>S</text>
       </register>
       <register name="7" type="4">
-        <text>fe</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>f</text>
+        <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>m</text>
       </register>
     </registers>
     <search>
@@ -114,7 +137,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -127,16 +150,34 @@
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
