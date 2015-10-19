@@ -12,9 +12,6 @@
         <mark key="^" line="127" column="33" />
         <mark key="." line="127" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1445240108411">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1444986515406">
         <mark key="[" line="558" column="3" />
         <mark key="]" line="578" column="32" />
@@ -30,6 +27,7 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/javFnc.jar!/com/teradata/fnc/runtime/ColumnDefinition.class" timestamp="1444973010167" />
+      <file name="C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/Throwable.java" timestamp="1445247560004" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1445240500977">
         <mark key="'" line="281" column="7" />
         <mark key="[" line="281" column="8" />
@@ -52,11 +50,14 @@
         <mark key="." line="110" column="16" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/common/SQLThreadContext.java" timestamp="1445236780845" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1445246242522">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="16" />
-        <mark key="." line="160" column="16" />
-        <mark key="^" line="167" column="18" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1445248549380">
+        <mark key="[" line="130" column="46" />
+        <mark key="]" line="130" column="45" />
+        <mark key="." line="130" column="45" />
+        <mark key="^" line="130" column="45" />
+      </file>
+      <file name="/fragment.java" timestamp="1445249771322">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445238226685">
         <mark key="'" line="58" column="24" />
@@ -156,7 +157,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -182,6 +183,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
