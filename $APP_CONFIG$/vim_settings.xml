@@ -6,11 +6,13 @@
       <file name="/Dummy.txt" timestamp="1445251126912">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1445230405058">
-        <mark key="[" line="121" column="68" />
-        <mark key="]" line="127" column="33" />
-        <mark key="^" line="127" column="33" />
-        <mark key="." line="127" column="33" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1445317762995">
+        <mark key="]" line="211" column="0" />
+        <mark key="^" line="211" column="0" />
+        <mark key="." line="211" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1445316430641">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1444986515406">
         <mark key="[" line="558" column="3" />
@@ -68,6 +70,9 @@
         <mark key="." line="130" column="45" />
         <mark key="^" line="130" column="45" />
       </file>
+      <file name="/fragment.java" timestamp="1445316909060">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445238226685">
         <mark key="'" line="58" column="24" />
         <mark key="[" line="667" column="0" />
@@ -85,41 +90,41 @@
       <jump line="203" column="17" filename="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="1" type="4">
+        <text>m</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgOyBqKyspIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgOyBqKyspIHsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhPWZhbHNlKSB7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>f</text>
-      </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>f</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
+        <text>.</text>
+      </register>
+      <register name="9" type="4">
         <text>a</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGl2ZUNsaWVudC5ub3RudQo=</text>
-      </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>m</text>
       </register>
     </registers>
     <search>
