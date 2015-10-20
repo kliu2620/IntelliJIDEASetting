@@ -21,7 +21,12 @@
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/hiveudf/TDIndicRowTbl.java" timestamp="1444972933792" />
       <file name="C:/Share fold/t2mongo-project/libs/javFnc.jar!/com/teradata/fnc/runtime/ColumnDefinition.class" timestamp="1444973661328" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/logger/JDBCLogger.java" timestamp="1445224915667" />
-      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1445250196217" />
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1445310806903">
+        <mark key="[" line="178" column="10" />
+        <mark key="]" line="178" column="9" />
+        <mark key="^" line="178" column="9" />
+        <mark key="." line="178" column="9" />
+      </file>
       <file name="C:/Share fold/t2h-project/untitled4/src/fe.java" timestamp="1445226545023">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="7" column="0" />
@@ -49,6 +54,12 @@
         <mark key="[" line="110" column="16" />
         <mark key="]" line="110" column="16" />
         <mark key="." line="110" column="16" />
+      </file>
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/ComplexDataString.java" timestamp="1445311132094">
+        <mark key="[" line="48" column="17" />
+        <mark key="]" line="48" column="16" />
+        <mark key="^" line="48" column="16" />
+        <mark key="." line="48" column="16" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/common/SQLThreadContext.java" timestamp="1445236780845" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1445248549380">
@@ -187,6 +198,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
