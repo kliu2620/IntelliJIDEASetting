@@ -10,10 +10,7 @@
         <mark key="^" line="143" column="14" />
         <mark key="." line="143" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1445402196046">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1445403504401">
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1445405592993">
         <mark key="[" line="384" column="31" />
         <mark key="]" line="389" column="0" />
         <mark key="." line="389" column="0" />
@@ -49,6 +46,8 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/ParallelStreamBase.class" timestamp="1445405636820" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/Session.class" timestamp="1445405505135" />
       <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRDriver.java" timestamp="1445402675825">
         <mark key="[" line="50" column="50" />
         <mark key="]" line="50" column="50" />
@@ -60,9 +59,6 @@
         <mark key="." line="237" column="0" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TeradataType.java" timestamp="1445402515505" />
-      <file name="/fragment.java" timestamp="1445332166161">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="238" column="0" filename="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRDriver.java" />
