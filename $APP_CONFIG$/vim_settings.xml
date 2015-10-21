@@ -22,6 +22,7 @@
       </file>
       <file name="C:\Share fold\t2h-project\jackrabbit_export_dr175397_v6\com\teradata\dynaload\hcatalog\hiveudf\TDIndicRowTbl.java" timestamp="1445326809934" />
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/ParallelQuery.class" timestamp="1445335434664" />
+      <file name="C:/Share fold/t2h-project/tdptl/com/teradata/efssp/SecuritySetting.java" timestamp="1445397785589" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1445236267517">
         <mark key="[" line="110" column="16" />
         <mark key="]" line="110" column="16" />
@@ -40,13 +41,6 @@
         <mark key="]" line="130" column="45" />
         <mark key="." line="130" column="45" />
         <mark key="^" line="130" column="45" />
-      </file>
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445238226685">
-        <mark key="'" line="58" column="24" />
-        <mark key="[" line="667" column="0" />
-        <mark key="]" line="667" column="0" />
-        <mark key="^" line="866" column="3" />
-        <mark key="." line="667" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1445325255178">
         <mark key="[" line="0" column="0" />
@@ -71,13 +65,6 @@
         <mark key="]" line="281" column="7" />
         <mark key="^" line="281" column="7" />
         <mark key="." line="281" column="7" />
-      </file>
-      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRDriver.java" timestamp="1444972798144">
-        <mark key="'" line="248" column="29" />
-        <mark key="[" line="248" column="28" />
-        <mark key="]" line="248" column="29" />
-        <mark key="^" line="248" column="29" />
-        <mark key="." line="209" column="90" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHAllColsPhase.java" timestamp="1445320972411">
         <mark key="[" line="237" column="0" />
