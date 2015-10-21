@@ -10,10 +10,11 @@
         <mark key="^" line="143" column="14" />
         <mark key="." line="143" column="14" />
       </file>
-      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1445405592993">
-        <mark key="[" line="384" column="31" />
-        <mark key="]" line="389" column="0" />
-        <mark key="." line="389" column="0" />
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1445406819219">
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
+        <mark key="^" line="311" column="25" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1445236267517">
         <mark key="[" line="110" column="16" />
@@ -83,28 +84,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL291dHB1dENvbW1pdHRlci5zZXR1cEpvYihteUpvYik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL091dHB1dENvbW1pdHRlciBvdXRwdXRDb21taXR0ZXIgPSBoQ2F0T3V0cHV0Rm9ybWF0LmdldE91dHB1dENvbW1pdHRlcihUc2tDdHgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL291dHB1dENvbW1pdHRlci5zZXR1cEpvYihteUpvYik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL091dHB1dENvbW1pdHRlciBvdXRwdXRDb21taXR0ZXIgPSBoQ2F0T3V0cHV0Rm9ybWF0LmdldE91dHB1dENvbW1pdHRlcihUc2tDdHgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>/</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvL291dHB1dENvbW1pdHRlci5zZXR1cEpvYihteUpvYik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
