@@ -52,6 +52,12 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1445579635056">
+        <mark key="[" line="93" column="67" />
+        <mark key="]" line="93" column="67" />
+        <mark key="." line="93" column="67" />
+        <mark key="^" line="93" column="67" />
+      </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/ParallelStreamBase.class" timestamp="1445405636820" />
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/Session.class" timestamp="1445405505135" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1445422013821" />
@@ -84,44 +90,44 @@
       <jump line="10" column="12" filename="C:/Share fold/t2h-project/untitled4/src/fe.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzZXJ2ZXIgOiIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>j</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3RhbEFtcHMgPSBJbnRlZ2VyLnBhcnNlSW50KHRvdGFsQW1wc1N0cik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzZXJ2ZXIgOiIpOwo=</text>
+      <register name="1" type="4">
+        <text>j</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8JICAgIAl0aHJvdyBuZXcgSU9FeGNlcHRpb24obSk7Cg==</text>
+      <register name="2" type="4">
+        <text>MetaException</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgY2F0Y2ggYmxvY2sKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChURXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETyBBdXRvLWdlbmVyYXRlZCBjYXRjaCBibG9jawogICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNwbGl0c1swXT0iICsgc3BsaXRzLmdldCgwKS5nZXRMb2NhdGlvbnMoKVswXSk7Cg==</text>
+      <register name="4" type="4">
+        <text>nvalidObjectException</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNwbGl0cy5zaXplPSIrc3BsaXRzLnNpemUoKSk7Cg==</text>
+      <register name="5" type="4">
+        <text>I</text>
       </register>
       <register name="6" type="4">
-        <text>{</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgY2F0Y2ggYmxvY2sKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUxLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChBbHJlYWR5RXhpc3RzRXhjZXB0aW9uIGUxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIGNhdGNoIGJsb2NrCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlMS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoTWV0YUV4Y2VwdGlvbiBlMSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETyBBdXRvLWdlbmVyYXRlZCBjYXRjaCBibG9jawogICAgICAgICAgICAgICAgICAgICAgICAgICAgZTEucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKFRFeGNlcHRpb24gZTEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgY2F0Y2ggYmxvY2sKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUxLnByaW50U3RhY2tUcmFjZSgpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzZXJ2ZXIgOiIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9ICAgIAo=</text>
+        <text encoding="base64">Ly8JICAgIAl0aHJvdyBuZXcgSU9FeGNlcHRpb24obSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>/</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
