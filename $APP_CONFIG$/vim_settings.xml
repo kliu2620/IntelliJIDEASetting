@@ -4,6 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1445401663777" />
+      <file name="/a.dummy" timestamp="1445842614591">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445503751673">
         <mark key="[" line="230" column="4" />
         <mark key="]" line="230" column="4" />
@@ -25,10 +28,10 @@
       <file name="/a.txt" timestamp="1445419455379">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" timestamp="1445594191319">
-        <mark key="[" line="131" column="9" />
-        <mark key="]" line="56" column="67" />
-        <mark key="." line="56" column="67" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" timestamp="1445842583212">
+        <mark key="[" line="129" column="39" />
+        <mark key="]" line="129" column="39" />
+        <mark key="." line="129" column="39" />
         <mark key="^" line="56" column="67" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TeradataType.java" timestamp="1445402515505" />
@@ -51,7 +54,7 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1445834824199">
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1445841661250">
         <mark key="[" line="87" column="51" />
         <mark key="]" line="461" column="24" />
         <mark key="." line="461" column="24" />
@@ -89,11 +92,11 @@
         <mark key="^" line="93" column="67" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/ParallelStreamBase.class" timestamp="1445405636820" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1445596036113">
-        <mark key="[" line="223" column="30" />
-        <mark key="]" line="223" column="27" />
-        <mark key="." line="223" column="27" />
-        <mark key="^" line="223" column="27" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1445842494687">
+        <mark key="[" line="484" column="0" />
+        <mark key="]" line="484" column="0" />
+        <mark key="." line="484" column="0" />
+        <mark key="^" line="444" column="50" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/Session.class" timestamp="1445405505135" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1445422013821" />
@@ -105,16 +108,19 @@
         <mark key="^" line="67" column="16" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHHiveOp.java" timestamp="1445500417708" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1445589287272">
-        <mark key="[" line="123" column="13" />
-        <mark key="]" line="123" column="55" />
-        <mark key="^" line="123" column="55" />
-        <mark key="." line="123" column="55" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1445842418095">
+        <mark key="[" line="272" column="22" />
+        <mark key="]" line="272" column="31" />
+        <mark key="^" line="272" column="31" />
+        <mark key="." line="272" column="31" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHCompleteMRPhase.java" timestamp="1445590821427">
         <mark key="[" line="235" column="0" />
         <mark key="]" line="235" column="0" />
         <mark key="." line="235" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1445842292753">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -131,43 +137,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SQLException</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>SQLException</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJaWYocmVxQ29sc1tpXS5zdGFydHNXaXRoKCJgIikmJnJlcUNvbHNbaV0uZW5kc1dpdGgoImAiKSkK</text>
       </register>
       <register name="1" type="4">
-        <text>SQLException</text>
+        <text>)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+      <register name="2" type="4">
+        <text>(</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCW5hbWUgPSBuYW1lLnN1YnN0cmluZygxLG5hbWUubGVuZ3RoKCktMSk7Cg==</text>
+      <register name="3" type="4">
+        <text>parseErrorMessage</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJaWYobmFtZS5zdGFydHNXaXRoKCJgIikmJm5hbWUuZW5kc1dpdGgoImAiKSkK</text>
+        <text encoding="base64">Ly8gICAgICAgIH0gY2F0Y2goQXV0aGVudGljYXRpb25FeGNlcHRpb24gYWUpIHsgIC8qcWwxODYwMDYsIGtlcmJlcm9zIGF1dGhlbnRpY2Fpb24gKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCQlsb2cuZXJyb3IoIioqKmVycm9yKioqIiwgYWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCQl0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKEVycm9ycy5nZXRFQyhFcnJvcnMuVDJIX0VDXzQxMjMyKSArIGFlLmdldE1lc3NhZ2UoKSwgYWUpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>reqCols[i]</text>
+        <text>SQLException</text>
       </register>
-      <register name="8" type="4">
-        <text>reqCols[i]</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gCQkJdWdpID0gQXV0aGVudGljYXRpb25VdGlsczIuZ2V0TG9naW5VZ2koY29uZkluZm8uZ2V0UHJveHlVc2VySWQoKSwgaGRmc1Rva2VuU3RyaW5nLCBtZXRhc3RvcmVUb2tlblN0cmluZywK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cmVxQ29sc1tpXSA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gCQkJCQlqZGJjVG9rZW5TdHJpbmcsIG9vemllVG9rZW5TdHJpbmcpOwo=</text>
       </register>
     </registers>
     <search>
