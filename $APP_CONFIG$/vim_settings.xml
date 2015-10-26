@@ -28,10 +28,10 @@
       <file name="/a.txt" timestamp="1445419455379">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" timestamp="1445842583212">
-        <mark key="[" line="129" column="39" />
-        <mark key="]" line="129" column="39" />
-        <mark key="." line="129" column="39" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" timestamp="1445844878082">
+        <mark key="[" line="130" column="39" />
+        <mark key="]" line="130" column="39" />
+        <mark key="." line="130" column="39" />
         <mark key="^" line="56" column="67" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TeradataType.java" timestamp="1445402515505" />
@@ -92,10 +92,10 @@
         <mark key="^" line="93" column="67" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/ParallelStreamBase.class" timestamp="1445405636820" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1445842494687">
-        <mark key="[" line="484" column="0" />
-        <mark key="]" line="484" column="0" />
-        <mark key="." line="484" column="0" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1445845595255">
+        <mark key="[" line="223" column="84" />
+        <mark key="]" line="353" column="99" />
+        <mark key="." line="353" column="99" />
         <mark key="^" line="444" column="50" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/Session.class" timestamp="1445405505135" />
@@ -119,7 +119,7 @@
         <mark key="]" line="235" column="0" />
         <mark key="." line="235" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1445842292753">
+      <file name="/fragment.java" timestamp="1445845499961">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -137,43 +137,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJaWYocmVxQ29sc1tpXS5zdGFydHNXaXRoKCJgIikmJnJlcUNvbHNbaV0uZW5kc1dpdGgoImAiKSkK</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>e</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="4">
+        <text>)</text>
+      </register>
+      <register name="5" type="4">
+        <text>(</text>
+      </register>
+      <register name="6" type="4">
         <text>parseErrorMessage</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgICAgIH0gY2F0Y2goQXV0aGVudGljYXRpb25FeGNlcHRpb24gYWUpIHsgIC8qcWwxODYwMDYsIGtlcmJlcm9zIGF1dGhlbnRpY2Fpb24gKi8K</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8JCQlsb2cuZXJyb3IoIioqKmVycm9yKioqIiwgYWUpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8JCQl0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKEVycm9ycy5nZXRFQyhFcnJvcnMuVDJIX0VDXzQxMjMyKSArIGFlLmdldE1lc3NhZ2UoKSwgYWUpOwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>SQLException</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gCQkJdWdpID0gQXV0aGVudGljYXRpb25VdGlsczIuZ2V0TG9naW5VZ2koY29uZkluZm8uZ2V0UHJveHlVc2VySWQoKSwgaGRmc1Rva2VuU3RyaW5nLCBtZXRhc3RvcmVUb2tlblN0cmluZywK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gCQkJCQlqZGJjVG9rZW5TdHJpbmcsIG9vemllVG9rZW5TdHJpbmcpOwo=</text>
+        <text encoding="base64">Ly8JCQl0aHJvdyBuZXcgU1FMRXhjZXB0aW9uKEVycm9ycy5nZXRFQyhFcnJvcnMuVDJIX0VDXzQxMjMyKSArIGFlLmdldE1lc3NhZ2UoKSwgYWUpOwo=</text>
       </register>
     </registers>
     <search>
