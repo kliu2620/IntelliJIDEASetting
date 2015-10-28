@@ -91,12 +91,11 @@
         <mark key="^" line="93" column="67" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/ParallelStreamBase.class" timestamp="1445927428487" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1446007670123">
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1446018555263">
         <mark key="'" line="314" column="0" />
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="0" />
-        <mark key="." line="248" column="0" />
-        <mark key="^" line="247" column="16" />
+        <mark key="]" line="490" column="4" />
+        <mark key="." line="490" column="4" />
+        <mark key="^" line="490" column="4" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/Session.class" timestamp="1445405505135" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1445422013821" />
@@ -152,31 +151,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQlpZiAoYW1wLmxvd2VzdEFNUE9uTm9kZSgpKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>i</text>
-      </register>
-      <register name="4" type="4">
-        <text>delimiter</text>
-      </register>
-      <register name="5" type="4">
-        <text>addrStr</text>
-      </register>
-      <register name="6" type="4">
-        <text>IAmTheBrain</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text>{</text>
+      </register>
+      <register name="5" type="4">
+        <text>i</text>
+      </register>
+      <register name="6" type="4">
+        <text>delimiter</text>
+      </register>
+      <register name="7" type="4">
+        <text>addrStr</text>
+      </register>
       <register name="8" type="4">
-        <text>//		catch(SQLException sqle) {
-//			throw new SQLException(sqle.getMessage(), sqle);
-//		}</text>
+        <text>IAmTheBrain</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXRocm93IG5ldyBFeGNlcHRpb24oInh4eHgiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
