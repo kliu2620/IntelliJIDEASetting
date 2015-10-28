@@ -39,6 +39,7 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="129" column="0" />
       </file>
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11merge/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1446023875002" />
       <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TeradataType.java" timestamp="1445402515505" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/hcatalog/TDMetastore.java" timestamp="1445592337640">
         <mark key="[" line="534" column="0" />
@@ -93,11 +94,11 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1446013088032">
-        <mark key="[" line="93" column="67" />
-        <mark key="]" line="93" column="67" />
-        <mark key="." line="93" column="67" />
-        <mark key="^" line="93" column="67" />
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1446023924764">
+        <mark key="[" line="82" column="12" />
+        <mark key="]" line="82" column="12" />
+        <mark key="." line="82" column="12" />
+        <mark key="^" line="76" column="33" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/ParallelStreamBase.class" timestamp="1445927428487" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1445329421128">
@@ -154,44 +155,44 @@
       <jump line="290" column="0" filename="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZXJhZGF0YS5mbmMuKjsK</text>
+      <register name="&quot;" type="4">
+        <text>do_reduce</text>
       </register>
       <register name="-" type="4">
-        <text>ssTimeout</text>
+        <text>do_reduce</text>
       </register>
       <register name="0" type="4">
         <text>amp.lowestAMPOnNode()</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZXJhZGF0YS5mbmMuKjsK</text>
+      <register name="1" type="4">
+        <text>do_reduce</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZXJhZGF0YS5lZnNzcC5Mb2dpbkluZm87Cg==</text>
+      <register name="2" type="4">
+        <text>do_reduce</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIAlpZihjb25maWdJbmZvLnJlcXVpcmVkQ29scy5nZXQoaSkuc3RhcnRzV2l0aCgiXyIpKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50ZXJhZGF0YS5mbmMuKjsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50ZXJhZGF0YS5lZnNzcC5Mb2dpbkluZm87Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgIAlpZihjb25maWdJbmZvLnJlcXVpcmVkQ29scy5nZXQoaSkuc3RhcnRzV2l0aCgiXyIpKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgIAkJdXNldGljayA9ICJgIjsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>ssTimeout</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>READ_SOCK_TIMEOUT</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">UkVBRF9TT0NLX1RJTUVPVVQg</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgUkVBRF9TT0NLX1RJTUVPVVQgPTEwMDAgKiAxMDAwOwo=</text>
       </register>
     </registers>
     <search>
