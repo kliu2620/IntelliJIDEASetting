@@ -13,9 +13,7 @@
         <mark key="." line="230" column="4" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/hcatalog/TDContractContextData.java" timestamp="1445502723417" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHHiveOp.java" timestamp="1445919398768">
-        <mark key="[" line="467" column="33" />
-      </file>
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHHiveOp.java" timestamp="1445919398768" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/error/Errors.java" timestamp="1445594334344">
         <mark key="[" line="1069" column="42" />
         <mark key="]" line="1069" column="43" />
@@ -71,9 +69,6 @@
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveImport.java" timestamp="1445594030236" />
       <file name="C:/Share fold/t2h-project/tdptl/com/teradata/ptl/Endpoint.java" timestamp="1445400692297" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/mapper/ComplexDataString.java" timestamp="1445401751056" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/main/SQLHExport.java" timestamp="1445411495603">
-        <mark key="[" line="381" column="31" />
-      </file>
       <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDInputFormat.java" timestamp="1445581812074">
         <mark key="[" line="200" column="0" />
         <mark key="]" line="200" column="0" />
@@ -99,20 +94,21 @@
         <mark key="^" line="93" column="67" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/ParallelStreamBase.class" timestamp="1445927428487" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1445933440377">
-        <mark key="'" line="279" column="0" />
-        <mark key="[" line="349" column="0" />
-        <mark key="]" line="349" column="0" />
-        <mark key="." line="349" column="0" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1446002440768">
+        <mark key="'" line="305" column="0" />
+        <mark key="[" line="237" column="12" />
+        <mark key="]" line="237" column="13" />
+        <mark key="." line="237" column="13" />
+        <mark key="^" line="237" column="13" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/Session.class" timestamp="1445405505135" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1445422013821" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveImport.java" timestamp="1445422218504" />
-      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRDriver.java" timestamp="1445589920123">
-        <mark key="[" line="67" column="12" />
-        <mark key="]" line="67" column="16" />
-        <mark key="." line="67" column="16" />
-        <mark key="^" line="67" column="16" />
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRDriver.java" timestamp="1446001524086">
+        <mark key="[" line="167" column="11" />
+        <mark key="]" line="173" column="18" />
+        <mark key="." line="173" column="18" />
+        <mark key="^" line="173" column="18" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHHiveOp.java" timestamp="1445500417708" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1445855029482">
@@ -144,44 +140,46 @@
       <jump line="290" column="0" filename="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCXRocm93IG5ldyBFeGNlcHRpb24oInh4eHgiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IGUucHJpbnRTdGFja1RyYWNlKA==</text>
       </register>
       <register name="0" type="4">
         <text>amp.lowestAMPOnNode()</text>
       </register>
-      <register name="1" type="4">
-        <text>/</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCXRocm93IG5ldyBFeGNlcHRpb24oInh4eHgiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IGUucHJpbnRTdGFja1RyYWNlKA==</text>
+      </register>
+      <register name="3" type="4">
+        <text>catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        }</text>
+      </register>
+      <register name="4" type="4">
+        <text>InterruptedException</text>
+      </register>
+      <register name="5" type="4">
         <text>/</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="4">
+        <text>/</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQkJY29udHJhY3Quc3luYygpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJCXRocm93IG5ldyBFeGNlcHRpb24oInh4eHgiKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJaWYoYW1wLmxvd2VzdEFNUE9uTm9kZSgpKQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>true</text>
-      </register>
-      <register name="8" type="4">
-        <text>s</text>
-      </register>
-      <register name="9" type="4">
-        <text>/</text>
       </register>
     </registers>
     <search>
