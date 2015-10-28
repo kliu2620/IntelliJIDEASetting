@@ -58,11 +58,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1445841661250">
-        <mark key="[" line="87" column="51" />
-        <mark key="]" line="461" column="24" />
-        <mark key="." line="461" column="24" />
-        <mark key="^" line="461" column="24" />
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1446020013495">
+        <mark key="[" line="891" column="15" />
+        <mark key="]" line="891" column="15" />
+        <mark key="." line="891" column="15" />
+        <mark key="^" line="891" column="45" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHCompleteMRPhase.java" timestamp="1445503583463">
         <mark key="[" line="231" column="45" />
@@ -151,44 +151,44 @@
       <jump line="290" column="0" filename="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlwb3N0RGF0YS5hZGQoIigiKyBjb25mSW5mby5zb2NrVGltZW91dCsiKSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>ssTimeout</text>
       </register>
       <register name="-" type="4">
-        <text>READTIMEOUT</text>
+        <text>ssTimeout</text>
       </register>
       <register name="0" type="4">
         <text>amp.lowestAMPOnNode()</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlwb3N0RGF0YS5hZGQoIigiKyBjb25mSW5mby5zb2NrVGltZW91dCsiKSIpOwo=</text>
+      <register name="1" type="4">
+        <text>ssTimeout</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>READTIMEOUT</text>
+        <text>READ_SOCK_TIMEOUT</text>
       </register>
       <register name="3" type="4">
-        <text>READTIMEOUT</text>
+        <text encoding="base64">UkVBRF9TT0NLX1RJTUVPVVQg</text>
       </register>
-      <register name="4" type="4">
-        <text>read_timeout</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgUkVBRF9TT0NLX1RJTUVPVVQgPTEwMDAgKiAxMDAwOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQlpZiAoYW1wLmxvd2VzdEFNUE9uTm9kZSgpKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>{</text>
+        <text encoding="base64">MDAwMCA=</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>6</text>
       </register>
     </registers>
     <search>
