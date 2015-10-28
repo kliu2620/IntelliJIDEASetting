@@ -4,9 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1445401663777" />
-      <file name="/a.dummy" timestamp="1445919321058">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445503751673">
         <mark key="[" line="230" column="4" />
         <mark key="]" line="230" column="4" />
@@ -94,11 +91,12 @@
         <mark key="^" line="93" column="67" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/ParallelStreamBase.class" timestamp="1445927428487" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1446003922956">
-        <mark key="'" line="305" column="0" />
-        <mark key="[" line="327" column="8" />
-        <mark key="]" line="330" column="0" />
-        <mark key="." line="330" column="0" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1446005925040">
+        <mark key="'" line="307" column="0" />
+        <mark key="[" line="239" column="12" />
+        <mark key="]" line="240" column="36" />
+        <mark key="." line="240" column="36" />
+        <mark key="^" line="240" column="36" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/Session.class" timestamp="1445405505135" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1445422013821" />
@@ -139,48 +137,48 @@
       <jump line="290" column="0" filename="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>IAmTheBrain</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGUucHJpbnRTdGFja1RyYWNlKA==</text>
+        <text>IAmTheBrain</text>
       </register>
       <register name="0" type="4">
         <text>amp.lowestAMPOnNode()</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>IAmTheBrain</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>//		catch(SQLException sqle) {
 //			throw new SQLException(sqle.getMessage(), sqle);
 //		}</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCXRocm93IG5ldyBFeGNlcHRpb24oInh4eHgiKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGUucHJpbnRTdGFja1RyYWNlKA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>catch (ClassNotFoundException e) {
             e.printStackTrace();
         }</text>
       </register>
-      <register name="6" type="4">
-        <text>InterruptedException</text>
-      </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text>InterruptedException</text>
       </register>
       <register name="8" type="4">
         <text>/</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJY29udHJhY3Quc3luYygpOwo=</text>
+      <register name="9" type="4">
+        <text>/</text>
       </register>
     </registers>
     <search>
