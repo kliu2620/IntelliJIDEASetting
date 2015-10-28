@@ -18,16 +18,17 @@
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/hcatalog/TDContractContextData.java" timestamp="1445502723417" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHHiveOp.java" timestamp="1445919398768" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/error/Errors.java" timestamp="1445594334344">
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11merge/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1446022491867" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/error/Errors.java" timestamp="1446023138169">
         <mark key="[" line="1069" column="42" />
         <mark key="]" line="1069" column="43" />
         <mark key="." line="1069" column="43" />
         <mark key="^" line="1074" column="79" />
       </file>
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445592279197">
-        <mark key="[" line="888" column="0" />
-        <mark key="]" line="888" column="0" />
-        <mark key="." line="888" column="0" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1446022397218">
+        <mark key="[" line="920" column="48" />
+        <mark key="]" line="920" column="48" />
+        <mark key="." line="920" column="48" />
       </file>
       <file name="/a.txt" timestamp="1445419455379">
         <mark key="[" line="0" column="0" />
@@ -52,6 +53,7 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11merge/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1446023118590" />
       <file name="C:/Share fold/t2h-project/untitled4/src/test.java" timestamp="1445569372885">
         <mark key="[" line="8" column="36" />
         <mark key="]" line="8" column="31" />
@@ -105,12 +107,12 @@
         <mark key="^" line="281" column="7" />
         <mark key="." line="281" column="7" />
       </file>
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1446019175650">
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1446023128809">
         <mark key="'" line="313" column="0" />
-        <mark key="[" line="489" column="22" />
-        <mark key="]" line="489" column="34" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
         <mark key="^" line="489" column="34" />
-        <mark key="." line="489" column="34" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/Session.class" timestamp="1445405505135" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1445422013821" />
@@ -128,10 +130,11 @@
         <mark key="^" line="272" column="31" />
         <mark key="." line="272" column="31" />
       </file>
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHCompleteMRPhase.java" timestamp="1445590821427">
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="235" column="0" />
-        <mark key="." line="235" column="0" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHCompleteMRPhase.java" timestamp="1446022700779">
+        <mark key="[" line="230" column="30" />
+        <mark key="]" line="231" column="65" />
+        <mark key="^" line="231" column="65" />
+        <mark key="." line="231" column="65" />
       </file>
       <file name="/fragment.java" timestamp="1445928956759">
         <mark key="[" line="0" column="0" />
@@ -151,8 +154,8 @@
       <jump line="290" column="0" filename="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ssTimeout</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50ZXJhZGF0YS5mbmMuKjsK</text>
       </register>
       <register name="-" type="4">
         <text>ssTimeout</text>
@@ -160,35 +163,35 @@
       <register name="0" type="4">
         <text>amp.lowestAMPOnNode()</text>
       </register>
-      <register name="1" type="4">
-        <text>ssTimeout</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50ZXJhZGF0YS5mbmMuKjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>READ_SOCK_TIMEOUT</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50ZXJhZGF0YS5lZnNzcC5Mb2dpbkluZm87Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">UkVBRF9TT0NLX1RJTUVPVVQg</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIAlpZihjb25maWdJbmZvLnJlcXVpcmVkQ29scy5nZXQoaSkuc3RhcnRzV2l0aCgiXyIpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIAkJdXNldGljayA9ICJgIjsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgUkVBRF9TT0NLX1RJTUVPVVQgPTEwMDAgKiAxMDAwOwo=</text>
+      <register name="5" type="4">
+        <text>ssTimeout</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>READ_SOCK_TIMEOUT</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">UkVBRF9TT0NLX1RJTUVPVVQg</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">MDAwMCA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>6</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgUkVBRF9TT0NLX1RJTUVPVVQgPTEwMDAgKiAxMDAwOwo=</text>
       </register>
     </registers>
     <search>
