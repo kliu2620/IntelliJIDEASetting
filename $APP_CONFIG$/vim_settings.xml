@@ -61,11 +61,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1446020013495">
-        <mark key="[" line="891" column="15" />
-        <mark key="]" line="891" column="15" />
-        <mark key="." line="891" column="15" />
-        <mark key="^" line="891" column="45" />
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1446089634977">
+        <mark key="[" line="294" column="43" />
+        <mark key="]" line="294" column="43" />
+        <mark key="." line="294" column="43" />
+        <mark key="^" line="294" column="80" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHCompleteMRPhase.java" timestamp="1445503583463">
         <mark key="[" line="231" column="45" />
@@ -94,7 +94,7 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1446023924764">
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1446089487602">
         <mark key="[" line="82" column="12" />
         <mark key="]" line="82" column="12" />
         <mark key="." line="82" column="12" />
@@ -118,14 +118,14 @@
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/Session.class" timestamp="1445405505135" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1445422013821" />
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveImport.java" timestamp="1445422218504" />
-      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRDriver.java" timestamp="1446001524086">
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRDriver.java" timestamp="1446088649445">
         <mark key="[" line="167" column="11" />
         <mark key="]" line="173" column="18" />
         <mark key="." line="173" column="18" />
         <mark key="^" line="173" column="18" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHHiveOp.java" timestamp="1445500417708" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1446021548246">
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1446088373084">
         <mark key="[" line="272" column="22" />
         <mark key="]" line="272" column="31" />
         <mark key="^" line="272" column="31" />
@@ -156,43 +156,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>do_reduce</text>
+        <text>jobConf</text>
       </register>
       <register name="-" type="4">
-        <text>do_reduce</text>
+        <text>jobConf</text>
       </register>
       <register name="0" type="4">
         <text>amp.lowestAMPOnNode()</text>
       </register>
       <register name="1" type="4">
-        <text>do_reduce</text>
+        <text>jobConf</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>do_reduce</text>
+        <text>f</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZXJhZGF0YS5mbmMuKjsK</text>
+      <register name="3" type="4">
+        <text>n</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZXJhZGF0YS5lZnNzcC5Mb2dpbkluZm87Cg==</text>
+      <register name="4" type="4">
+        <text>o</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIAlpZihjb25maWdJbmZvLnJlcXVpcmVkQ29scy5nZXQoaSkuc3RhcnRzV2l0aCgiXyIpKQo=</text>
+      <register name="5" type="4">
+        <text>c</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIAkJdXNldGljayA9ICJgIjsK</text>
+      <register name="6" type="4">
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>ssTimeout</text>
+        <text>v</text>
       </register>
       <register name="8" type="4">
-        <text>READ_SOCK_TIMEOUT</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">UkVBRF9TT0NLX1RJTUVPVVQg</text>
+        <text>H</text>
       </register>
     </registers>
     <search>
