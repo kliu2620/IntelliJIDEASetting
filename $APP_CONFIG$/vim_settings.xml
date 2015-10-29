@@ -4,13 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1445401663777" />
-      <file name="C:/Share fold/t2h-project/untitled4/src/fe.java" timestamp="1445330099888">
-        <mark key="'" line="21" column="12" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445503751673">
         <mark key="[" line="230" column="4" />
         <mark key="]" line="230" column="4" />
@@ -61,11 +54,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1446105263717">
-        <mark key="[" line="294" column="43" />
-        <mark key="]" line="294" column="43" />
-        <mark key="." line="294" column="43" />
-        <mark key="^" line="294" column="80" />
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1446109986753">
+        <mark key="[" line="293" column="0" />
+        <mark key="]" line="293" column="0" />
+        <mark key="." line="280" column="44" />
+        <mark key="^" line="234" column="16" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHCompleteMRPhase.java" timestamp="1445503583463">
         <mark key="[" line="231" column="45" />
@@ -101,14 +94,7 @@
         <mark key="^" line="76" column="33" />
       </file>
       <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/ParallelStreamBase.class" timestamp="1445927428487" />
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1445329421128">
-        <mark key="'" line="281" column="7" />
-        <mark key="[" line="281" column="8" />
-        <mark key="]" line="281" column="7" />
-        <mark key="^" line="281" column="7" />
-        <mark key="." line="281" column="7" />
-      </file>
-      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1446023128809">
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1446110747642">
         <mark key="'" line="313" column="0" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -156,7 +142,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJoaXZlIGVuZ2luZSIrY29uZi5nZXQoImhpdmUuZXhlY3V0aW9uLmVuZ2luZSIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhpdmUgZW5naW5lICIgKyBqb2JDb25mLmdldCgiaGl2ZS5leGVjdXRpb24uZW5naW5lIikpOwo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -168,34 +154,34 @@
         <text>amp.lowestAMPOnNode()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJoaXZlIGVuZ2luZSIrY29uZi5nZXQoImhpdmUuZXhlY3V0aW9uLmVuZ2luZSIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhpdmUgZW5naW5lICIgKyBqb2JDb25mLmdldCgiaGl2ZS5leGVjdXRpb24uZW5naW5lIikpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJvb3ppZSAiICsga2V5ICsgb296aWVQYXJhbWV0ZXJzLmdldChrZXkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhpdmUgZW5naW5lICIrIGpvYkNvbmYuZ2V0KCJoaXZlLmV4ZWN1dGlvbi5lbmdpbmUiKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJwcm9wcyIgKyBwcm9wcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJoaXZlIGVuZ2luZSIrY29uZi5nZXQoImhpdmUuZXhlY3V0aW9uLmVuZ2luZSIpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhoaGgiK2FyZ3NbMF0rICIgICIgICthcmdzWzFdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJvb3ppZSAiICsga2V5ICsgb296aWVQYXJhbWV0ZXJzLmdldChrZXkpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaHByb3BzID0gY29uZi5nZXQoImhhZG9vcF9wcm9wZXJ0aWVzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJwcm9wcyIgKyBwcm9wcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhhZG9vcCBwcm9wZXJ0aWVzIisgaHByb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhoaGgiK2FyZ3NbMF0rICIgICIgICthcmdzWzFdKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJlZm9yZSBwYXJzZSAiK2tleSt2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaHByb3BzID0gY29uZi5nZXQoImhhZG9vcF9wcm9wZXJ0aWVzIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicGFybSB4eHgiK3Bhcm0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhhZG9vcCBwcm9wZXJ0aWVzIisgaHByb3BzKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text />
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJlZm9yZSBwYXJzZSAiK2tleSt2YWx1ZSk7Cg==</text>
       </register>
     </registers>
     <search>
