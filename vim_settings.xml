@@ -11,6 +11,9 @@
         <mark key="." line="66" column="58" />
         <mark key="[" line="66" column="58" />
       </file>
+      <file name="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" timestamp="1445047314792">
+        <mark key="'" line="161" column="47" />
+      </file>
       <file name="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1442136689218">
         <mark key="'" line="47" column="21" />
         <mark key="]" line="46" column="2" />
@@ -18,19 +21,15 @@
         <mark key="." line="46" column="2" />
         <mark key="[" line="46" column="2" />
       </file>
-      <file name="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" timestamp="1445047314792">
-        <mark key="'" line="161" column="47" />
+      <file name="$USER_HOME$/IdeaProjects/Test/src/TestCode.java" timestamp="1446304606862">
+        <mark key="]" line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Test/src/TestCode.java" timestamp="1444921224338">
-        <mark key="]" line="14" column="15" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="14" column="15" />
-        <mark key="[" line="14" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1442153277125">
+      <file name="/a.dummy" timestamp="1446304612456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1444922252154" />
       <file name="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1442154063235">
         <mark key="'" line="1089" column="14" />
         <mark key="]" line="304" column="28" />
@@ -70,38 +69,38 @@
       <jump line="161" column="47" filename="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>崔子格at</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgIFN0cmluZyBzcz0gbmV3IFN0cmluZygizp/OtM+Fz4PPg86tzrEiLmdldEJ5dGVzKCksIklTTy04ODU5LTEiKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWYpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>崔子格at</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nIGFhZj0gIG5ldyBTdHJpbmcoc3MuZ2V0Qnl0ZXMoIklTTy04ODU5LTEiKSwiVVRGLTgiKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWYpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICA=</text>
-      </register>
-      <register name="6" type="4">
         <text />
       </register>
+      <register name="6" type="4">
+        <text>崔子格at</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIHJlc3VsdD1qYXZhLm5ldC5VUkxEZWNvZGVyLmRlY29kZShzcywgIlVURi04Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYSA9ICLOn860z4XPg8+Dzq3OsSI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3MyPSBuZXcgU3RyaW5nKHNzLmdldEJ5dGVzKCksIlVURi04Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgIGNoYXJbXSBhZj1hLnRvQ2hhckFycmF5KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/com</text>
       </register>
-      <register name="9" type="4">
-        <text>ss2</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3MyPSBuZXcgU3RyaW5nKHNzLmdldEJ5dGVzKCksIlVURi04Iik7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>ISO-8859-1</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsK</text>
       </register>
       <register name="/" type="4">
         <text>com</text>
@@ -191,6 +190,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
