@@ -3,203 +3,281 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.java" timestamp="1444915874041">
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1445401663777" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1445503751673">
+        <mark key="[" line="230" column="4" />
+        <mark key="]" line="230" column="4" />
+        <mark key="." line="230" column="4" />
+      </file>
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/hcatalog/TDContractContextData.java" timestamp="1445502723417" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHHiveOp.java" timestamp="1445919398768" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11merge/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1446022491867" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/error/Errors.java" timestamp="1446023138169">
+        <mark key="[" line="1069" column="42" />
+        <mark key="]" line="1069" column="43" />
+        <mark key="." line="1069" column="43" />
+        <mark key="^" line="1074" column="79" />
+      </file>
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" timestamp="1446022397218">
+        <mark key="[" line="920" column="48" />
+        <mark key="]" line="920" column="48" />
+        <mark key="." line="920" column="48" />
+      </file>
+      <file name="/a.txt" timestamp="1445419455379">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/mapper/ComplexDataString.java" timestamp="1444921782887">
-        <mark key="]" line="66" column="58" />
-        <mark key="." line="66" column="58" />
-        <mark key="[" line="66" column="58" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" timestamp="1445849105747">
+        <mark key="[" line="130" column="39" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+        <mark key="^" line="129" column="0" />
       </file>
-      <file name="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" timestamp="1445047314792">
-        <mark key="'" line="161" column="47" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11merge/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1446023875002" />
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TeradataType.java" timestamp="1445402515505" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/hcatalog/TDMetastore.java" timestamp="1445592337640">
+        <mark key="[" line="534" column="0" />
+        <mark key="]" line="534" column="0" />
+        <mark key="^" line="536" column="26" />
+        <mark key="." line="534" column="0" />
       </file>
-      <file name="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1442136689218">
-        <mark key="'" line="47" column="21" />
-        <mark key="]" line="46" column="2" />
-        <mark key="^" line="46" column="2" />
-        <mark key="." line="46" column="2" />
-        <mark key="[" line="46" column="2" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1445498324068" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/hiveudf/TDIndicRowTbl.java" timestamp="1445828746727" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHAllColsMRPhase.java" timestamp="1445594081741">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Test/src/TestCode.java" timestamp="1446304606862">
-        <mark key="]" line="17" column="34" />
-        <mark key="^" line="17" column="34" />
-        <mark key="." line="17" column="34" />
-        <mark key="[" line="16" column="0" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11merge/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1446023118590" />
+      <file name="C:/Share fold/t2h-project/untitled4/src/test.java" timestamp="1446094094822">
+        <mark key="[" line="16" column="90" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1446304612456">
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1446109986753">
+        <mark key="[" line="293" column="0" />
+        <mark key="]" line="293" column="0" />
+        <mark key="." line="280" column="44" />
+        <mark key="^" line="234" column="16" />
+      </file>
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHCompleteMRPhase.java" timestamp="1445503583463">
+        <mark key="[" line="231" column="45" />
+        <mark key="]" line="231" column="45" />
+        <mark key="^" line="231" column="45" />
+        <mark key="." line="231" column="45" />
+      </file>
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveImport.java" timestamp="1445594030236" />
+      <file name="C:/Share fold/t2h-project/tdptl/com/teradata/ptl/Endpoint.java" timestamp="1445400692297" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/mapper/ComplexDataString.java" timestamp="1445401751056" />
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDInputFormat.java" timestamp="1445581812074">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="^" line="106" column="8" />
+        <mark key="." line="200" column="0" />
+      </file>
+      <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/impl/TDAMBase.class" timestamp="1445928361027" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/hiveudf/TDIndicRowTbl.java" timestamp="1445499482317" />
+      <file name="/Dummy.txt" timestamp="1445504623243">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1442154063235">
-        <mark key="'" line="1089" column="14" />
-        <mark key="]" line="304" column="28" />
-        <mark key="^" line="304" column="28" />
-        <mark key="." line="304" column="28" />
-        <mark key="[" line="303" column="54" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/mapper/ComplexTypeString.java" timestamp="1445504545369" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/main/SQLHExport.java" timestamp="1445914381042" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/kerberos/AuthenticationUtils.java" timestamp="1445417205349">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" timestamp="1444915422251">
-        <mark key="]" line="383" column="25" />
-        <mark key="^" line="383" column="25" />
-        <mark key="." line="383" column="25" />
-        <mark key="[" line="383" column="9" />
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" timestamp="1446105285407">
+        <mark key="[" line="82" column="12" />
+        <mark key="]" line="82" column="12" />
+        <mark key="." line="82" column="12" />
+        <mark key="^" line="76" column="33" />
+      </file>
+      <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/ParallelStreamBase.class" timestamp="1445927428487" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1446110747642">
+        <mark key="'" line="313" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="489" column="34" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="C:/Share fold/t2h-project/jackrabbit_2.3jar/jars/tdptl.jar!/com/teradata/ptl/Session.class" timestamp="1445405505135" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" timestamp="1445422013821" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveImport.java" timestamp="1445422218504" />
+      <file name="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRDriver.java" timestamp="1446106675691">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="184" column="51" />
+      </file>
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v10/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHHiveOp.java" timestamp="1445500417708" />
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHExportNullMRPhase.java" timestamp="1446088373084">
+        <mark key="[" line="272" column="22" />
+        <mark key="]" line="272" column="31" />
+        <mark key="^" line="272" column="31" />
+        <mark key="." line="272" column="31" />
+      </file>
+      <file name="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/contract/SQLHCompleteMRPhase.java" timestamp="1446022700779">
+        <mark key="[" line="230" column="30" />
+        <mark key="]" line="231" column="65" />
+        <mark key="^" line="231" column="65" />
+        <mark key="." line="231" column="65" />
+      </file>
+      <file name="/fragment.java" timestamp="1445928956759">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="24" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" />
-      <jump line="17" column="4" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" />
-      <jump line="42" column="16" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" />
-      <jump line="40" column="40" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" />
-      <jump line="39" column="45" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" />
-      <jump line="37" column="15" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" />
-      <jump line="36" column="16" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" />
-      <jump line="44" column="21" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" />
-      <jump line="47" column="21" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" />
-      <jump line="48" column="32" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" />
-      <jump line="46" column="21" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" />
-      <jump line="90" column="12" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
-      <jump line="91" column="12" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
-      <jump line="115" column="38" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
-      <jump line="164" column="23" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
-      <jump line="165" column="30" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
-      <jump line="166" column="30" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
-      <jump line="167" column="30" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
-      <jump line="191" column="26" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
-      <jump line="196" column="26" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
-      <jump line="1088" column="14" filename="$USER_HOME$/JR/jackrabbit_export_error/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
-      <jump line="161" column="47" filename="$USER_HOME$/T2H Project/jackrabbit_export_latest/com/teradata/dynaload/hcatalog/sqlh/main/SQLHHiveExport.java" />
+      <jump line="238" column="0" filename="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRDriver.java" />
+      <jump line="250" column="29" filename="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRDriver.java" />
+      <jump line="730" column="14" filename="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" />
+      <jump line="58" column="24" filename="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/sqlh/config/SQLHConfig.java" />
+      <jump line="291" column="7" filename="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
+      <jump line="203" column="17" filename="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v6/com/teradata/dynaload/hcatalog/mapper/TDExportMRReducer.java" />
+      <jump line="1058" column="29" filename="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
+      <jump line="107" column="3" filename="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
+      <jump line="133" column="20" filename="C:/Share fold/t2h-project/jackrabbitMapper/com/teradata/dynaload/hcatalog/mapper/TDExportMRMapper.java" />
+      <jump line="10" column="12" filename="C:/Share fold/t2h-project/untitled4/src/fe.java" />
+      <jump line="290" column="0" filename="C:/Share fold/t2h-project/jackrabbit_export_dr175397_v11/com/teradata/dynaload/hcatalog/sqlh/operator/SQLHExportOperator.java" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIFN0cmluZyBzcz0gbmV3IFN0cmluZygizp/OtM+Fz4PPg86tzrEiLmdldEJ5dGVzKCksIklTTy04ODU5LTEiKTsK</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWYpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGFhZj0gIG5ldyBTdHJpbmcoc3MuZ2V0Qnl0ZXMoIklTTy04ODU5LTEiKSwiVVRGLTgiKTsK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWYpOwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text />
-      </register>
-      <register name="6" type="4">
-        <text>崔子格at</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYSA9ICLOn860z4XPg8+Dzq3OsSI7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIGNoYXJbXSBhZj1hLnRvQ2hhckFycmF5KCk7Cg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>/com</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3MyPSBuZXcgU3RyaW5nKHNzLmdldEJ5dGVzKCksIlVURi04Iik7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsK</text>
-      </register>
-      <register name="/" type="4">
-        <text>com</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhpdmUgZW5naW5lICIgKyBqb2JDb25mLmdldCgiaGl2ZS5leGVjdXRpb24uZW5naW5lIikpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>崔子格at</text>
+        <text />
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwrXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text>amp.lowestAMPOnNode()</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhpdmUgZW5naW5lICIgKyBqb2JDb25mLmdldCgiaGl2ZS5leGVjdXRpb24uZW5naW5lIikpOwo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhpdmUgZW5naW5lICIrIGpvYkNvbmYuZ2V0KCJoaXZlLmV4ZWN1dGlvbi5lbmdpbmUiKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJoaXZlIGVuZ2luZSIrY29uZi5nZXQoImhpdmUuZXhlY3V0aW9uLmVuZ2luZSIpKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJvb3ppZSAiICsga2V5ICsgb296aWVQYXJhbWV0ZXJzLmdldChrZXkpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJwcm9wcyIgKyBwcm9wcyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhoaGgiK2FyZ3NbMF0rICIgICIgICthcmdzWzFdKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaHByb3BzID0gY29uZi5nZXQoImhhZG9vcF9wcm9wZXJ0aWVzIik7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhhZG9vcCBwcm9wZXJ0aWVzIisgaHByb3BzKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJlZm9yZSBwYXJzZSAiK2tleSt2YWx1ZSk7Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>com</last-search>
+      <last-search encoding="base64">XDwrXD4=</last-search>
       <last-offset />
-      <last-pattern>com</last-pattern>
+      <last-pattern encoding="base64">XDwrXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
-        <entry>xw</entry>
-        <entry>files</entry>
-        <entry>file</entry>
-        <entry encoding="base64">XDxmaWxlXD4=</entry>
-        <entry encoding="base64">XDxuZXdGaWxlXD4=</entry>
-        <entry encoding="base64">XDwpXD4=</entry>
-        <entry>com</entry>
+        <entry encoding="base64">XDwrXD4=</entry>
       </history-search>
-      <history-cmd>
-        <entry>/set</entry>
-        <entry>file</entry>
-        <entry>xw</entry>
-        <entry>/xw</entry>
-        <entry>/files</entry>
-        <entry>/file</entry>
-        <entry>set hls</entry>
-        <entry>unset hls</entry>
-        <entry>set nls</entry>
-        <entry>?file</entry>
-        <entry>set hls!</entry>
-        <entry encoding="base64">aCBjdHJsLXcg</entry>
-        <entry>/com</entry>
-      </history-cmd>
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed CLOSE_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed OPEN_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
   </component>
 </application>
